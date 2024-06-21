@@ -1,1 +1,1 @@
-# voni-poc-camera-ai-tensorlite
+# voni-poc-camera-ai-tensorflow lite
